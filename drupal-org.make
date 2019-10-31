@@ -18,7 +18,7 @@ projects[imce][version] = 1.11
 ; ---------------------------------------------------------
 ; wysiwyg - abstaction layer for client side editors
 ; https://drupal.org/project/wysiwyg
-projects[wysiwyg][version] = 2.5
+projects[wysiwyg][version] = 2.6
 
 ; ---------------------------------------------------------
 ; IMCE Wysiwyg integration bridge
@@ -33,7 +33,7 @@ projects[ctools][version] = "1.15"
 ; ---------------------------------------------------------
 ; views
 ; https://drupal.org/project/views
-projects[views][version] = "3.20"
+projects[views][version] = "3.23"
 
 ; ---------------------------------------------------------
 ; advanced_help
